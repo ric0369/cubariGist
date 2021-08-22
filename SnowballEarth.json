@@ -6,7 +6,7 @@
    "cover":"https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx136063-KpzkWqydc0N4.jpg",
    "chapters":{
       "3":{
-         "title":"Chpt. 3",
+         "title":"Testuo, the beasts and the survivors",
          "volume":"1",
          "groups":{
             "Peckham Scanlations":"/proxy/api/imgur/chapter/408t1Pb/"
@@ -14,7 +14,7 @@
          "last_updated":"1629611076"
       },
       "2":{
-         "title":"Chpt. 2",
+         "title":"Welcome to the ice age",
          "volume":"1",
          "groups":{
             "Peckham Scanlations":"/proxy/api/imgur/chapter/<imgur id>/a24tpKK/"
@@ -22,7 +22,7 @@
          "last_updated":"1629611076"
       },
       "1":{
-         "title":"Chpt. 1",
+         "title":"The saviour who failed earth",
          "volume":"1",
          "groups":{
             "Peckham Scanlations":"/proxy/api/imgur/chapter/N19ljnN/"
