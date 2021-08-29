@@ -6,10 +6,10 @@
 	"cover":"https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx136680-cZF8UDh8sTzR.jpg",
 	"chapters":{
 		"1":{
-			"title":"Chapter 1",
+			"title":"Everything is so dazzling... Is this growing up?",
 			"volume":"1",
 			"groups":{
-				"unknown":"/proxy/api/imgur/chapter/qXOHKym/"
+				"Spinyback":"/proxy/api/imgur/chapter/bVgxJi7/"
 			},
 			"last_updated":"1629921327"
 		}
